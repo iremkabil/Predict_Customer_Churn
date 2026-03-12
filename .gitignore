@@ -1,3 +1,19 @@
+# data
+data/
+
+# outputs
+outputs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# environment
+.env
+venv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
