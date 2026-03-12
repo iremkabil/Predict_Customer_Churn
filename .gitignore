@@ -4,12 +4,18 @@ data/
 # outputs
 outputs/
 
+
+# catboost logs
+catboost_info/
+
+
 # python cache
 __pycache__/
 *.pyc
 
 # jupyter
 .ipynb_checkpoints/
+
 
 # environment
 .env
